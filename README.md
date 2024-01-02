@@ -1,4 +1,4 @@
-# Hi there! 👋 I`m Danil Diachenko
+# Hi there!👋 & I`m Danil Diachenko & Web full-stack developer
 Welcome to my GitHub profile. Portfolio-card: https://d-diachenko-portfolio.vercel.app/
 
 ## Activity
