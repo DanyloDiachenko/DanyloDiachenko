@@ -10,17 +10,17 @@ Welcome to my GitHub profile. Here's a brief overview of my GitHub activity:
 
 I work with various tools and technologies including:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-Latest-brightgreen)
-![React.js](https://img.shields.io/badge/React.js-Latest-blue)
-![Next.js](https://img.shields.io/badge/Next.js-Latest-black)
-![Nest.js](https://img.shields.io/badge/Nest.js-Latest-red)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-Latest-brightpink)
-![npm](https://img.shields.io/badge/npm-Latest-red)
-![Figma](https://img.shields.io/badge/Figma-Latest-purple)
-![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Latest-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Latest-lightgrey)
-![TypeScript](https://img.shields.io/badge/TypeScript-Latest-blueviolet)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+- ![Node.js](https://img.shields.io/badge/Node.js-Latest-brightgreen)
+- ![React.js](https://img.shields.io/badge/React.js-Latest-blue)
+- ![Next.js](https://img.shields.io/badge/Next.js-Latest-black)
+- ![Nest.js](https://img.shields.io/badge/Nest.js-Latest-red)
+- ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-Latest-brightpink)
+- ![npm](https://img.shields.io/badge/npm-Latest-red)
+- ![Figma](https://img.shields.io/badge/Figma-Latest-purple)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Latest-blue)
+- ![GitHub](https://img.shields.io/badge/GitHub-Latest-lightgrey)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-Latest-blueviolet)
 
 Feel free to explore my repositories and projects to learn more about my work!
