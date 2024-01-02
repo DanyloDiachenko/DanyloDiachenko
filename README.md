@@ -6,9 +6,17 @@ Welcome to my GitHub profile. Here's a brief overview of my GitHub activity:
 - ![Total Commits](https://img.shields.io/badge/Total%20Commits-633-brightgreen)
 - ![Total PRs](https://img.shields.io/badge/Total%20PRs-101-orange)
 
+## Significant Repositories
+
+Here are some of my significant repositories:
+
+1. [SpaceCore](https://github.com/yourusername/spacecore) - A multi-page project showcasing VPS and dedicated server services with high performance thanks to server-side rendering.
+2. [Top Courses](https://github.com/yourusername/top-courses) - A multi-page website providing information about various educational courses and platforms, including pricing and average income.
+3. [Pizza Shop](https://github.com/yourusername/pizza-shop) - An online pizza shop with various pizza options. Enjoy convenient keyboard navigation and a custom API for pizza customization.
+
 ## Tools and Technologies
 
-I work with various tools and technologies including:
+I work with various tools and technologies, including:
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 - ![Node.js](https://img.shields.io/badge/Node.js-Latest-brightgreen)
