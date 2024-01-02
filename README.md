@@ -14,21 +14,21 @@ Here's a brief overview of my GitHub activity:
 
 I work with various tools and technologies, including:
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-- ![Node.js](https://img.shields.io/badge/Node.js-brightgreen)
-- ![React.js](https://img.shields.io/badge/React.js-blue)
-- ![Next.js](https://img.shields.io/badge/Next.js-black)
-- ![Nest.js](https://img.shields.io/badge/Nest.js-red)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-blueviolet)
-- ![HTML](https://img.shields.io/badge/HTML-brightgreen)
-- ![CSS](https://img.shields.io/badge/CSS-blue)
-- ![SCSS](https://img.shields.io/badge/SCSS-brightpink)
-- ![npm](https://img.shields.io/badge/npm-red)
-- ![Figma](https://img.shields.io/badge/Figma-purple)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-green)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-- ![GitHub](https://img.shields.io/badge/GitHub-lightgrey)
-- ![Jira](https://img.shields.io/badge/Jira-black)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-brightgreen)
+![React.js](https://img.shields.io/badge/React.js-blue)
+![Next.js](https://img.shields.io/badge/Next.js-black)
+![Nest.js](https://img.shields.io/badge/Nest.js-red)
+![TypeScript](https://img.shields.io/badge/TypeScript-blueviolet)
+![HTML](https://img.shields.io/badge/HTML-brightgreen)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![SCSS](https://img.shields.io/badge/SCSS-brightpink)
+![npm](https://img.shields.io/badge/npm-red)
+![Figma](https://img.shields.io/badge/Figma-purple)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![GitHub](https://img.shields.io/badge/GitHub-lightgrey)
+![Jira](https://img.shields.io/badge/Jira-black)
 
 ## Significant Repositories
 
