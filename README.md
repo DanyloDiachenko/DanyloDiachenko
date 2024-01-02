@@ -1,7 +1,11 @@
 # Hi there! 👋
 ## I`m Danil Diachenko
 
-Welcome to my GitHub profile. Here's a brief overview of my GitHub activity:
+Welcome to my GitHub profile. 
+
+## Activity
+
+Here's a brief overview of my GitHub activity:
 
 - ![Years Experience](https://img.shields.io/badge/Years%20Experience-1.5+-red)
 - ![Total Projects](https://img.shields.io/badge/Total%20Projects-28-blue)
