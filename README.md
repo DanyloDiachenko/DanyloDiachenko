@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. Here's a brief overview of my GitHub activity:
 
-![Total Projects](https://img.shields.io/badge/Total%20Projects-28-blue)
+- ![Total Projects](https://img.shields.io/badge/Total%20Projects-28-blue)
 - ![Total Commits](https://img.shields.io/badge/Total%20Commits-633-brightgreen)
 - ![Total PRs](https://img.shields.io/badge/Total%20PRs-101-orange)
 
