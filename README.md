@@ -1,7 +1,6 @@
 # Hi there! 👋
-## I`m Danil Diachenko
-
 Welcome to my GitHub profile. 
+## I`m Danil Diachenko
 
 ## Activity
 
