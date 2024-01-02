@@ -11,20 +11,20 @@ Welcome to my GitHub profile. Here's a brief overview of my GitHub activity:
 
 I work with various tools and technologies, including:
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-- ![Node.js](https://img.shields.io/badge/Node.js-Latest-brightgreen)
-- ![React.js](https://img.shields.io/badge/React.js-Latest-blue)
-- ![Next.js](https://img.shields.io/badge/Next.js-Latest-black)
-- ![Nest.js](https://img.shields.io/badge/Nest.js-Latest-red)
-- ![npm](https://img.shields.io/badge/npm-Latest-red)
-- ![Figma](https://img.shields.io/badge/Figma-Latest-purple)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Latest-blue)
-- ![GitHub](https://img.shields.io/badge/GitHub-Latest-lightgrey)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-Latest-blueviolet)
-- ![HTML](https://img.shields.io/badge/HTML-Latest-brightgreen)
-- ![CSS](https://img.shields.io/badge/CSS-Latest-blue)
-- ![SCSS](https://img.shields.io/badge/SCSS-Latest-brightpink)
+1. ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+2. ![Node.js](https://img.shields.io/badge/Node.js-Latest-brightgreen)
+3. ![React.js](https://img.shields.io/badge/React.js-Latest-blue)
+4. ![Next.js](https://img.shields.io/badge/Next.js-Latest-black)
+5. ![Nest.js](https://img.shields.io/badge/Nest.js-Latest-red)
+6. ![TypeScript](https://img.shields.io/badge/TypeScript-Latest-blueviolet)
+7. ![HTML](https://img.shields.io/badge/HTML-Latest-brightgreen)
+8. ![CSS](https://img.shields.io/badge/CSS-Latest-blue)
+9. ![SCSS](https://img.shields.io/badge/SCSS-Latest-brightpink)
+10. ![npm](https://img.shields.io/badge/npm-Latest-red)
+11. ![Figma](https://img.shields.io/badge/Figma-Latest-purple)
+12. ![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green)
+13. ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Latest-blue)
+14. ![GitHub](https://img.shields.io/badge/GitHub-Latest-lightgrey)
 
 ## Significant Repositories
 
