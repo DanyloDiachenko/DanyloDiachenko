@@ -1,6 +1,5 @@
-# Hi there! 👋
-Welcome to my GitHub profile. 
-## I`m Danil Diachenko
+# Hi there! 👋 I`m Danil Diachenko
+Welcome to my GitHub profile. Portfolio-card: https://d-diachenko-portfolio.vercel.app/
 
 ## Activity
 
@@ -35,8 +34,8 @@ I work with various tools and technologies, including:
 
 Here are some of my significant repositories:
 
-1. [SpaceCore](https://github.com/yourusername/spacecore) - A multi-page project showcasing VPS and dedicated server services with high performance thanks to server-side rendering.
-2. [Top Courses](https://github.com/yourusername/top-courses) - A multi-page website providing information about various educational courses and platforms, including pricing and average income.
-3. [Pizza Shop](https://github.com/yourusername/pizza-shop) - An online pizza shop with various pizza options. Enjoy convenient keyboard navigation and a custom API for pizza customization.
+1. [SpaceCore](currently hidden) - A multi-page project showcasing VPS and dedicated server services with high performance thanks to server-side rendering.
+2. [Pizza Shop](https://github.com/DanyloDiachenko/pizza-shop) - An online pizza shop with various pizza options. Enjoy convenient keyboard navigation and a custom API for pizza customization.
+3. [Top Courses](https://github.com/DanyloDiachenko/top-cources) - A multi-page website providing information about various educational courses and platforms, including pricing and average income.
 
 Feel free to explore my repositories and projects to learn more about my work!
