@@ -31,6 +31,7 @@ I work with various tools and technologies, including:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-lightgrey)
 ![Jira](https://img.shields.io/badge/Jira-black)
+![C](https://img.shields.io/badge/C-brightgreen)
 
 ## Significant Repositories
 
