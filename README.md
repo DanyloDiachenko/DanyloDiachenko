@@ -26,6 +26,7 @@ I work with various tools and technologies, including:
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![SCSS](https://img.shields.io/badge/SCSS-brightpink)
 ![npm](https://img.shields.io/badge/npm-red)
+![Slack](https://img.shields.io/badge/Slack-yellow)
 ![Figma](https://img.shields.io/badge/Figma-purple)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
