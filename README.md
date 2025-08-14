@@ -33,13 +33,3 @@ I work with various tools and technologies, including:
 ![GitHub](https://img.shields.io/badge/GitHub-lightgrey)
 ![Jira](https://img.shields.io/badge/Jira-black)
 ![C](https://img.shields.io/badge/C-brightgreen)
-
-## Significant Repositories
-
-Here are some of my significant repositories:
-
-1. [SpaceCore](currently hidden) - A multi-page project showcasing VPS and dedicated server services with high performance thanks to server-side rendering.
-2. [Pizza Shop](https://github.com/DanyloDiachenko/pizza-shop) - An online pizza shop with various pizza options. Enjoy convenient keyboard navigation and a custom API for pizza customization.
-3. [Top Courses](https://github.com/DanyloDiachenko/top-cources) - A multi-page website providing information about various educational courses and platforms, including pricing and average income.
-
-Feel free to explore my repositories and projects to learn more about my work!
